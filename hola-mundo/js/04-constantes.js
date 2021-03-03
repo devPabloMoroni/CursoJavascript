@@ -1,4 +1,4 @@
-'use-strict'
+'use strict'
 
 var web = "https://google.com";
 const ip = "8.8.8.8";

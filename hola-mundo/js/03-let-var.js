@@ -1,4 +1,4 @@
-'use-strict'
+'use strict'
 
 //Prueba con let y var
 

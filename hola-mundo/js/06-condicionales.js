@@ -1,4 +1,4 @@
-'use-strict'
+'use strict'
 
 //IF
 var edad1 = 30;
